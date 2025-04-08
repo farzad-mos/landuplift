@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>TG</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>1-Narva-Jõesuu-EE      </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>28.04211,59.46905,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>2-Kunda-EE             </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>26.54173,59.521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>3-Loksa-EE             </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>25.70721,59.58447,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>4-Pirita-EE            </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.82081,59.46887,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>5-Paldiski-EE          </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.04932,59.35076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>6-Dirhami-EE           </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>23.49693,59.20843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>7-Haapsalu-EE          </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>23.52743,58.95801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>8-Heltermaa-EE         </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>23.04714,58.86555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>9-Ristna-EE            </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>22.05518,58.92121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>10-Roomassaare-EE      </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>22.50377,58.21725,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>11-Virtsu-EE           </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>23.51126,58.57225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>12-Pärnu-EE            </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.48196,58.38747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>13-Häädemeeste-EE      </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.4636,58.03745,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>14-Ruhnu-EE            </name>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>23.2635,57.78354,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>15-Salacgrīva-LV       </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.35361,57.75528,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>16-Skulte-LV           </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.40944,57.31583,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>17-Daugavgrīva-LV      </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.02333,57.05944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>18-Mērsrags-LV         </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>23.13278,57.33472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>19-Kolka-LV            </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>22.59278,57.73722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>20-Ventspils-LV        </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>21.53444,57.39556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>21-Liepāja-LV          </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>20.99944,56.51556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>22-Klaipeda-LT         </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>21.08112,55.73024,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>23-Gdynia-PL           </name>
+      <Style>
+        <IconStyle>
+          <color>ffff0000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>18.5552,54.5177,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>24-Leba-PL             </name>
+      <Style>
+        <IconStyle>
+          <color>ffff0000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>17.5505,54.7634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>25-Ustka-PL            </name>
+      <Style>
+        <IconStyle>
+          <color>ffff0000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>16.8538,54.588,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>26-Kolobrzeg-PL        </name>
+      <Style>
+        <IconStyle>
+          <color>ffff0000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>15.5534,54.1866,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>27-Swinoujscie-PL      </name>
+      <Style>
+        <IconStyle>
+          <color>ffff0000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>14.2543,53.9084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>28-Greifswald-DE       </name>
+      <Style>
+        <IconStyle>
+          <color>ffffff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>13.4461,54.0928,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>29-Sassnitz-DE         </name>
+      <Style>
+        <IconStyle>
+          <color>ffffff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>13.6431,54.5108,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>30-Warnemünde-DE       </name>
+      <Style>
+        <IconStyle>
+          <color>ffffff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>12.10333,54.16972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>31-Travemünde-DE       </name>
+      <Style>
+        <IconStyle>
+          <color>ffffff00</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>10.8722,53.9581,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>32-Rodby-DK            </name>
+      <Style>
+        <IconStyle>
+          <color>ffff00ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>11.35,54.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>33-Tejn-DK             </name>
+      <Style>
+        <IconStyle>
+          <color>ffff00ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>14.8333,55.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>34-Rodvig-DK           </name>
+      <Style>
+        <IconStyle>
+          <color>ffff00ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>12.3728,55.2542,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>35-Dragor-DK           </name>
+      <Style>
+        <IconStyle>
+          <color>ffff00ff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>12.6833,55.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>36-HELSINGBORG SJÖV -SE</name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>12.687,56.0446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>37-BARSEBÄCK-SE        </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>12.9033,55.7564,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>38-SKANÖR-SE           </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>12.8294,55.4167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>39-YSTAD SJÖV-SE       </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>13.8257,55.4227,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>40-SIMRISHAMN-SE       </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>14.3578,55.5575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>41-KARLSHAMN SJÖV-SE   </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>14.8213,56.1542,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>42-KALMAR SJÖV-SE      </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>16.3888,56.6713,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>43-OSKARSHAMN-SE       </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>16.4781,57.275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>44-ÖLANDS NORRA UDDE-SE</name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>17.0972,57.3661,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>45-VISBY-SE            </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>18.2844,57.6392,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>46-VÄSTERVIK SJÖV-SE   </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>16.6747,57.7482,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>47-ARKÖ-SE             </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>16.9607,58.4843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>48-LANDSORT NORRA-SE   </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>17.8589,58.7689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>49-LOUDDEN SJÖV-SE     </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>18.1373,59.3413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>50-FORSMARK-SE         </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>18.2108,60.4086,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>51-BÖNAN SJÖV-SE       </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>17.3186,60.7384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>52-LJUSNE SJÖV-SE      </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>17.1452,61.2067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>53-SPIKARNA-SE         </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>17.5311,62.3633,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>54-LUNDE SJÖV-SE       </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>17.8764,62.8865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>55-SKAGSUDDE SJÖV-SE   </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>19.0119,63.1906,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>56-HOLMSUND SJÖV-SE    </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>20.3331,63.6803,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>57-FURUÖGRUND-SE       </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>21.2306,64.9158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>58-STRÖMÖREN SJÖV-SE   </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>22.2383,65.5497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>59-KALIX-STORÖN-SE     </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>23.0961,65.6969,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>60-Kemi-FI             </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.51526,65.67337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>61-Oulu-FI             </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>25.4182,65.0403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>62-Raahe-FI            </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.40708,64.6663,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>63-Pietarsaari-FI      </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>22.68958,63.70857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>64-Vaasa-FI            </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>21.57118,63.0815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>65-Kaskinen-FI         </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>21.21483,62.34395,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>66-Mäntyluoto-FI       </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>21.46343,61.59438,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>67-Rauma-FI            </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>21.42582,61.13353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>68-Föglö-FI            </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>20.38482,60.03188,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>69-Turku-FI            </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>22.10053,60.42828,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>70-Hanko-FI            </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>22.97658,59.82287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>71-Helsinki-FI         </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>24.95622,60.15363,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>72-Porvoo-FI           </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>25.62509,60.20579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>73-Hamina-FI           </name>
+      <Style>
+        <IconStyle>
+          <color>ff00ffff</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>27.1792,60.56277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>74-Kronstadt-RU        </name>
+      <Style>
+        <IconStyle>
+          <color>ff000000</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>29.75,59.9667,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
